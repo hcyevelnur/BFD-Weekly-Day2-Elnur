@@ -1,0 +1,55 @@
+body {
+    background-color: #303030;
+}
+
+.after {
+
+    width: 300px;
+    border-radius: 10%;
+
+}
+
+.fonts {
+    color: white;
+    font-family: sans-serif;
+    font-weight: 900;
+    
+}
+
+.red {
+    color: red;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-weight: 900;
+}
+
+.whte {
+    color: white;
+    font-family: sans-serif;
+    width: 600px;
+    text-align: justify;
+}
+
+.button {
+    font-family: sans-serif;
+    background-color: white;
+    border: none;
+    color: red;
+    padding: 15px 20px;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 20px;
+    font-weight: 900;
+
+}
+
+.text1 {
+    color: white;
+    font-family: sans-serif;
+
+}
+
+.text2 {
+    color: red;
+    font-family: sans-serif;
+    font-weight: 900;
+}
